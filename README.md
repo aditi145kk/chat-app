@@ -1,17 +1,11 @@
-Real-Time Chat Application
+                                                                       Real-Time Chat Application
 
 
 
 Overview:
 This is a real-time chat application built using Flask and Socket.IO. The application allows users to create and join chat rooms, send messages, and receive updates in real-time.
 
-Features:
-1.User authentication
-2.Room creation
-3.Message broadcasting
-4.Real-time updates
-5.Scalable and performant architecture
-
+Features: User authentication, Room creation, Message broadcasting, Real-time updates, Scalable and performant architecture
 
 
 Technical Details
