@@ -10,6 +10,15 @@ Features: User authentication, Room creation, Message broadcasting, Real-time up
 
 Technical Details
 -The application uses Flask as the web framework and Socket.IO for real-time communication.
+
+
+
 -The generate_unique_code function generates a unique 4-character code for each new room.
+
+
+
 -The rooms dictionary stores information about each room, including its members and messages.
+
+
+
 -The @socketio.on decorators handle Socket.IO events, such as connecting, disconnecting, and sending messages.
